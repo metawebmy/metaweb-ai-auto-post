@@ -9,5 +9,6 @@
     "cors": "latest",
     "dotenv": "latest",
     "express": "latest"
+    "sharp": "latest"
   }
 }
